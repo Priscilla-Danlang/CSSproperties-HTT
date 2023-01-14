@@ -18,7 +18,7 @@
 }
 
 .empty{
-    background-image: url(/IMAGES/rando.png);
+    background-image: url(IMAGES/rando.png);
     height: 90vh;
     width: 100%;
 }
